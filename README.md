@@ -16,3 +16,5 @@
 
 # USAGE:
 	 python3 main.py --prototxt MobileNetSSD_deploy.prototxt.txt --model MobileNetSSD_deploy.caffemodel
+
+![Human Following Robot](https://github.com/mshakeelt/Human-Following-Robot-Using-Open-CV-and-RaspBerry-Pi/blob/main/images/robot.jpg)
